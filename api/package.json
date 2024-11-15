@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "@ag-grid-community/client-side-row-model": "^32.3.3",
+    "@ag-grid-community/core": "^32.3.3",
+    "ag-grid-react": "^32.3.3",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "sqlite3": "^5.1.7"

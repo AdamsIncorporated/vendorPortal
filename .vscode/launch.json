@@ -7,8 +7,7 @@
       "request": "launch",
       "reAttach": true,
       "webRoot": "${workspaceFolder}",
-      "url": "http://localhost:3000",
-      // "runtimeExecutable": "C:\\Program Files\\Mozilla Firefox\\firefox.exe" // Replace with your actual path
+      "url": "http://localhost:3000"
     }
   ]
 }
